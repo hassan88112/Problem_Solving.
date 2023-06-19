@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * Author : hassan shalash
+ * Date   : 19/6/2023   12:22 pm
+ */
 public class PetyaAndStrings {
 
     public static void main(String[] args){
